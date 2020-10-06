@@ -6,7 +6,7 @@
 - Create a new folder named 'my-repo' and enter it
 - Right click inside the folder and select 'GitExt create new repository'
 #### Adding files and commits
-- Create 3 files
+- Create 3 files in your new folder (using notepad, or any other editor)
     - file1.txt
     - file2.txt
     - file3.txt
