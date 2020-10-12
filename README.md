@@ -31,12 +31,12 @@
 - Right click inside the folder and select 'GitExt Clone...'
 - Paste the URL https://github.com/noama-demo/Lab01-ex2.git and choose clone
 #### Adding commits
-- Modify Lab-01 - Base\gitDemo\ClassA.cs
+- Modify gitDemo\ClassA.cs
 - Add the following comment to line 6
     ```
     // comment to commit
     ```
-- Modify Lab-01 - Base\gitDemo\ClassB.cs
+- Modify gitDemo\ClassB.cs
 - Add the following comment to line 6
     ```
     // comment to commit
