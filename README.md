@@ -5,6 +5,7 @@
 - Go to a playground folder using explorer (c:\temp, for example)
 - Create a new folder named 'my-repo' and enter it
 - Right click inside the folder and select 'GitExt create new repository'
+- Right click inside the folder and select 'GitExt open repository'
 #### Adding files and commits
 - Create 3 files in your new folder (using notepad, or any other editor)
     - file1.txt
@@ -29,7 +30,9 @@
 #### Cloning a repo
 - Go to a playground folder using explorer (c:\temp, for example)
 - Right click inside the folder and select 'GitExt Clone...'
-- Paste the URL https://github.com/noama-demo/Lab01-ex2.git and choose clone
+- Paste the URL C:\GitServer\labs\Lab01-ex2 and choose clone
+- Right click inside/on the folder and select 'GitExt open repository'
+
 #### Adding commits
 - Modify gitDemo\ClassA.cs
 - Add the following comment to line 6
